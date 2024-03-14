@@ -6,14 +6,14 @@
 
 ### Llama-CPP Version (RECOMMENDED)
 ```
-curl -LO https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/files/installers/llama-cpp-installer.sh
+curl -LO https://raw.githubusercontent.com/devanshusanghani/PrivateGPT4Linux/main/files/installers/llama-cpp-installer.sh
 
 sh llama-cpp-installer.sh
 ```
 
 ### Ollama Version
 ```
-curl -LO https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/files/installers/ollama-installer.sh
+curl -LO https://raw.githubusercontent.com/devanshusanghani/PrivateGPT4Linux/main/files/installers/ollama-installer.sh
 
 sh ollama-installer.sh
 ```

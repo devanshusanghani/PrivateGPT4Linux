@@ -2,7 +2,7 @@
 
 # Step 1: Clone the PrivateGPT repository
 echo "Cloning PrivateGPT repository..."
-git clone https://github.com/imartinez/privateGPT
+git clone https://github.com/devanshusanghani/privateGPT
 cd privateGPT
 
 # Step 2: Install Python 3.11 using pyenv
